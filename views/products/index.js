@@ -29,13 +29,13 @@ module.exports = ({ products }) => {
 
   return layout({
     content: `
-      <sectaaaion class="banner">
+      <section class="banner">
         <div class="container">
           <div class="columns is-centered">
             <img src="/images/banner.jpg" />
           </div>
         </div>
-      </sectaaaion>
+      </section>
       
       <section>
         <div class="container">
